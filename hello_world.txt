@@ -1,0 +1,2 @@
+Hello world, this is my first time using Git and my first time using VM or something like that.
+Ist cool!!!
